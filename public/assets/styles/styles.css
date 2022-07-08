@@ -1,0 +1,36 @@
+#hero {
+    padding: 14rem 1.5rem;
+    background-image: url('../images/portada.jpg');
+    background-size: cover;
+    color: #cfc2a0;
+}
+
+:root {
+    --bs-body-font-family: 'Hepta Slab', var(--bs-font-sans-serif);
+    color: #121114;
+}
+  
+.font-titles {
+   font-family: 'Outfit', var(--bs-font-sans-serif);
+   color: #4e2b23;
+}
+
+.second-titles {
+    font-family: 'Outfit', var(--bs-font-sans-serif);
+    color: #702619;
+}
+
+.third-titles {
+    font-family: 'Outfit', var(--bs-font-sans-serif);
+    color: #cfc2a0;
+}
+
+.py-8 {
+    padding-top: 7rem;
+    padding-bottom: 5rem;
+}
+
+.mx-8 {
+    padding-left: 13rem;
+    padding-right: 13rem;
+}
