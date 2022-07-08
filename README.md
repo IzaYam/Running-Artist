@@ -1,4 +1,4 @@
-# Running-Artist - Landing Page
+# Running Artist - Landing Page
 La experiencia se centra en una App, denominada RunningArtist app, en la cual el usuario puede utilizar el GPS del smartphone para seguir la pista de su recorrido.
 
 ## Segmento Objetivo 🚀
