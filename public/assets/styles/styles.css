@@ -2,6 +2,7 @@
     padding: 14rem 1.5rem;
     background-image: url('../images/portada.jpg');
     background-size: cover;
+    background-position: center;
     color: #cfc2a0;
 }
 
@@ -9,10 +10,10 @@
     --bs-body-font-family: 'Hepta Slab', var(--bs-font-sans-serif);
     color: #121114;
 }
-  
+
 .font-titles {
-   font-family: 'Outfit', var(--bs-font-sans-serif);
-   color: #4e2b23;
+    font-family: 'Outfit', var(--bs-font-sans-serif);
+    color: #4e2b23;
 }
 
 .second-titles {
@@ -30,7 +31,9 @@
     padding-bottom: 5rem;
 }
 
-.mx-8 {
-    padding-left: 13rem;
-    padding-right: 13rem;
+@media (min-width: 992px) {
+    .mx-lg-8 {
+        padding-left: 13rem;
+        padding-right: 13rem;
+    }
 }
